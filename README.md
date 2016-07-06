@@ -6,3 +6,9 @@ I wrote this program in about two hours because I couldn't find a hex dumper whi
 Bill
 
 
+Operating Instructions:
+
+At the moment, this jewel only has one command.  It's <Open> in the <FILE> menu.  It will take you into a standard Microsoft file selection dialog.  This operates in the standard way. When the selection is made, a new window will open with the file dumped in Hex and ASCII.  In the ASCII portion, the non-rendering chars are stated as a null.  You can open as many windows as you like simultaneously to compare files.  Opens and closes are logged to the system log on the splash window. 
+
+If anyone actually uses this, I'll occasionally post improvements.
+

@@ -12,3 +12,5 @@ At the moment, this jewel only has one command.  It's OPEN in the FILE menu.  It
 
 If anyone actually uses this, I'll occasionally post improvements.
 
+COPYRIGHT William R. Graves, All Rights Reserved.  Licensed under GPL 3.0.
+
